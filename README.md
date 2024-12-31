@@ -18,7 +18,9 @@ An IoT-based overspeeding detector uses an ultrasonic sensor to monitor vehicle 
 - **Jumper Wires:** Connections between components.
 
 ## Circuit Diagram
-![Circuit Diagram](Images/Hardware.jpg)
+<div align="center">
+<img src="Images/Hardware.jpg" alt="Circuit Diagram" width="700"/>
+</div>
 
 ## How to Use
 1. Assemble the circuit as shown in the diagram.
@@ -34,6 +36,32 @@ An IoT-based overspeeding detector uses an ultrasonic sensor to monitor vehicle 
 - LiquidCrystal library for LCD
 
 ## Demonstration
-![Real Time Device](Images/Device1.jpg)
-![Real Time Device](Images/Device2.jpg)
-![Real Time Device](Images/Device3.jpg)
+<div align="center">
+  <img src="Images/Device_1.jpg" alt="Picture 1" width="330" height ="300"/>
+  <img src="Images/Device_3.jpg" alt="Picture 2" width="330"height ="300"/>
+  <img src="Images/Device_2.jpg" alt="Picture 3" width="330"height ="300"/>
+</div>
+
+## Output In Console
+<div align="center">
+<img src="Images/Running_Output.png" alt="Console Output" width="450" height ="450"/>
+</div>
+
+## ThingSpeak Cloud Output and Graph
+<div align="center">
+<img src="Images/ThingSpeak_Output.png" alt="Cloud Output" width="900"/>
+</div>
+
+## Telegram Bot
+<div align="center">
+<img src="Images/Telegram_Bot.jpg" alt="Tbot" width="350" height = "350"/>
+</div>
+<div align="center">
+  <img src="Images/Telegram _Bot_Messages.jpg" alt="T1" width="400" height ="700"/>
+  <img src="Images/Notification.png" alt="T2" width="400"height ="700"/>
+</div>
+
+## Summary
+This IoT Overspeeding Detector combines real-time speed monitoring with efficient notification and data logging mechanisms. By leveraging ultrasonic sensors, LEDs, and IoT platforms like Telegram and ThingSpeak, it provides a practical solution for enhancing road safety and monitoring vehicle behavior effectively.
+
+
