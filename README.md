@@ -18,7 +18,7 @@ An IoT-based overspeeding detector uses an ultrasonic sensor to monitor vehicle 
 - **Jumper Wires:** Connections between components.
 
 ## Circuit Diagram
-![Circuit Diagram] (images/circuit_diagram.png)
+![Circuit Diagram] (Images/Hardware.jpg)
 
 ## How to Use
 1. Assemble the circuit as shown in the diagram.
@@ -34,4 +34,6 @@ An IoT-based overspeeding detector uses an ultrasonic sensor to monitor vehicle 
 - LiquidCrystal library for LCD
 
 ## Demonstration
-![Working Prototype](images/working_prototype.gif)
+![Real Time Device](Images/Device1.jpg)
+![Real Time Device](Images/Device2.jpg)
+![Real Time Device](Images/Device3.jpg)
